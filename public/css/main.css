@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 /*======================================================================================
 Theme Name: Kidzu 
 Author: Gramentheme
@@ -221,7 +221,7 @@ span {
 .theme-btn .theme-text,
 .theme-btn .theme-text2 {
   display: inline-flex;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 700;
   font-family: "Quicksand", sans-serif;
   color: var(--white);
@@ -230,10 +230,11 @@ span {
   right: 0;
   justify-content: center;
   align-items: center;
-  gap: 12px;
+  gap: 8px;
   text-transform: capitalize;
   transition: transform 0.6s ease;
   z-index: 99;
+  white-space: nowrap;
 }
 .theme-btn {
   /* First Text (Visible Initially) */

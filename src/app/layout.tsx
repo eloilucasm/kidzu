@@ -1,9 +1,19 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Quicksand, Source_Sans_3 } from "next/font/google";
 import "./globals.css";
 import Script from "next/script";
 
-const inter = Inter({ subsets: ["latin"] });
+const quicksand = Quicksand({ 
+  subsets: ["latin"],
+  variable: '--font-quicksand',
+  display: 'swap',
+});
+
+const sourceSans = Source_Sans_3({ 
+  subsets: ["latin"],
+  variable: '--font-source-sans',
+  display: 'swap',
+});
 
 export const metadata: Metadata = {
   title: "Kidzu – Kindergarten Preschool & Kids Education",
@@ -28,7 +38,7 @@ export default function RootLayout({
         <link rel="stylesheet" href="/css/nice-select.css" />
         <link rel="stylesheet" href="/css/main.css" />
       </head>
-      <body className={inter.className}>
+      <body className={`${quicksand.variable} ${sourceSans.variable}`}>
         {children}
         
         {/* Scripts Estáticos Legados */}

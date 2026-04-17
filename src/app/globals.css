@@ -2,8 +2,13 @@
 
 /* Limpar estilos padrões que conflitam com o template Kidzu */
 body {
+  font-family: var(--font-source-sans), "Source Sans 3", sans-serif;
   background: transparent !important;
   color: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-quicksand), "Quicksand", sans-serif;
 }
 
 /* Forçar visualização inicial de seções importantes que usam animação legacy */

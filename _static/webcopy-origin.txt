@@ -1,0 +1,2280 @@
+Uri: https://ex-coders.com/html/kidzu/
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index.htm
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/404.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\404.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/about-2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\about-2.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/about.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\about.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/main.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\main.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/nice-select.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/02.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\02.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/04.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\04.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/author.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\author.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/border-shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\border-shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/bus.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\bus.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/circle.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\circle.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/dot.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\dot.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/girl.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\girl.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/left-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\left-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/radius-shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\radius-shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/radius-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\radius-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/about/zebra.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\about\zebra.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/breadcrumb-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\breadcrumb-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/circle-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\circle-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/client/shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\client\shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/close.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\close.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/contact.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\contact.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/box-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\box-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/icon-1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/icon-2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/icon-3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/icon-4.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/counter/line-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\counter\line-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/cta-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\cta-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/cta-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\cta-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/cta-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\cta-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/cta-shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\cta-shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/cta-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\cta-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/pencil-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\pencil-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/cta/shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\cta\shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/favicon.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/footer/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\footer\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/frame-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\frame-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/frame-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\frame-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/home-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/home-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/home-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\home-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/home-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\home-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/home-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\home-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/top-bar-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\top-bar-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/header/top-bar.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\header\top-bar.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/02.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\02.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/03.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\03.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/bee-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\bee-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/bee.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\bee.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/book.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\book.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/doll.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\doll.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/hero-4-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\hero-4-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/left.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\left.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/parasuit.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\parasuit.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/hero/star-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\hero\star-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/about-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\about-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/about-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\about-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/about-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\about-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/about-vec.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\about-vec.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/about-vec2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\about-vec2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/activities-image-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\activities-image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/activities-image-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\activities-image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/activities-image.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\activities-image.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/bag1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\bag1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/bear-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\bear-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/book-admission-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\book-admission-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/book-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\book-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/book-bg2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\book-bg2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/border-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\border-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/border-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\border-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/bottom-line-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\bottom-line-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/bottom-line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\bottom-line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/bottom-line-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\bottom-line-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-7.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-7.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/brand-hover-7.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\brand-hover-7.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/cat1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\cat1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/choose-us-shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\choose-us-shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/choose-us-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\choose-us-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/choose-us-shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\choose-us-shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/choose-us.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\choose-us.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/classes-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\classes-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/client-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\client-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/client-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\client-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/client-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\client-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/client-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\client-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/client-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\client-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/counter-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\counter-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/cta-newsletter-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\cta-newsletter-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/faq-bottom.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\faq-bottom.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/faq-image.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\faq-image.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/faq-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\faq-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/faq-top.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\faq-top.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/flag.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\flag.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/flag2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\flag2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/footer-top.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\footer-top.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/hero-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\hero-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/hero-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\hero-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/hero-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\hero-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/hero-line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\hero-line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/border-circle.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\border-circle.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/check.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\check.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/icon-1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/icon-2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/icon-3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/icon-4.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/icon-box.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\icon-box.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/phone.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/icon/telephone.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\icon\telephone.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/instagram-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/instagram-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\instagram-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/instagram-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\instagram-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/instagram-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\instagram-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/instagram-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\instagram-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/news-6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\news-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/pencil1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\pencil1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/pencil2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\pencil2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/pocket-watch.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\pocket-watch.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/program-01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\program-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/program-02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\program-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/program-03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\program-03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/shape-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\shape-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/shape-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\shape-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/shape-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\shape-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/star.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\star.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/star1-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\star1-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-bg2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-bg2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-bg3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-bg3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/team-bg4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\team-bg4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/top-line-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\top-line-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/top-line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\top-line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vac-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vac-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec7.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec7.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec8.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec8.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/vec9.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\vec9.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/zirap1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\zirap1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-1/zirap2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-1\zirap2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/about-image.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\about-image.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/about-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\about-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/border-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\border-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/bottom-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\bottom-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/breakfast.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\breakfast.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/choose-icon1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\choose-icon1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/choose-icon2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\choose-icon2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/choose-us.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\choose-us.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/client-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\client-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/client-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\client-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/client-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\client-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/client-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\client-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/doll.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\doll.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/extra-activities-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\extra-activities-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/extra-activities-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\extra-activities-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/extra-activities-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\extra-activities-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/faq-bottom.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\faq-bottom.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/faq-image.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\faq-image.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/faq-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\faq-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/food-kids-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\food-kids-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/food-kids-items.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\food-kids-items.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/food-shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\food-shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/food-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\food-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/girl-graduation.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\girl-graduation.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/girl-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\girl-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hand-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hand-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hand-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hand-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hand-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hand-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hand-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hand-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-client.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-client.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-image.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-image.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/hero-shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\hero-shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/arrow.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/check.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\check.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/check2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\check2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/check3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\check3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/icon1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/icon2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/icon3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/icon4.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/icon/icon5.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\icon\icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/line-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\line-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/line-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\line-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/line1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\line1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/love.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\love.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/lunch.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\lunch.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-04.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-04.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-05.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-05.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/news-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\news-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/program1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\program1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/program2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\program2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/program3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\program3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/program4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\program4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/about-pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\about-pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/about-shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\about-shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/about-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\about-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/about-shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\about-shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/about-vec.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\about-vec.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/bottom-line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\bottom-line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/box-6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\box-6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/cat-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\cat-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/choose-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\choose-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/flower.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\flower.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/girl.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\girl.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/man.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\man.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/marque-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\marque-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/marque-star.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\marque-star.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/star1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\star1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/star2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\star2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/star4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\star4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/star5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\star5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/top-line-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\top-line-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/vec-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\vec-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/vec-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\vec-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/vec-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\vec-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape/zirap.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape\zirap.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/special-image.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\special-image.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/star.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\star.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/star2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\star2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-02.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-02.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-03.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-03.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-04.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-04.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-shape4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-shape4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-small-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-small-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-small-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-small-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-small-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-small-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/team-small.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\team-small.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/testi-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\testi-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/top-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\top-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/tree.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\tree.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-2/zirap.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-2\zirap.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/arrow-left.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\arrow-left.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/arrow-right.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\arrow-right.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/ball.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\ball.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/cat.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\cat.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/choose-us.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\choose-us.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/choose-us.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\choose-us.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/client-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\client-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/contact-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\contact-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/contact-book-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\contact-book-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/dot-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\dot-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/faq-image.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\faq-image.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/flower.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\flower.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/footer-ball.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\footer-ball.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/footer-top-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\footer-top-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-7.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/gallery-8.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\gallery-8.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/girl.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\girl.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/happy-mother.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\happy-mother.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/hero-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\hero-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/hero-slider-bg.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\hero-slider-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/hero-slider-bg2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\hero-slider-bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/hero-slider-bg3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\hero-slider-bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/how-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\how-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/how-work-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\how-work-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/mother-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\mother-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/news-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/news-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/news-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\news-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape7.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape7.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/shape8.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\shape8.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/star.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\star.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/team-01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/team-02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/team-03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/team-04.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/top-line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\top-line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/train-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\train-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/home-3/vec.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\home-3\vec.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/01.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\01.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/02.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\02.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/02.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\02.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/03.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\03.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/03.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\03.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/04.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\04.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/04.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\04.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/05.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\05.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/06.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\06.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/07.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\07.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/08.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\08.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/09.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\09.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/10.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\10.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/arrow1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\arrow1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/arrow2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\arrow2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon1.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon2.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon3.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon4.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon5.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/icon6.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/icon/telephone.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\icon\telephone.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/404.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\404.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/about-01.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\about-01.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/arrow-left.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/arrow-right.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/arrow.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\arrow.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-4.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-5.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/blog-post-6.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\blog-post-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/bottom-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\bottom-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/bottom-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\bottom-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/choose-us-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\choose-us-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/client.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\client.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/contact-image.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\contact-image.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/date.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\date.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/event-details.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\event-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/f-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\f-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/f-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\f-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/f-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\f-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/google.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\google.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/login-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\login-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/login-image.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\login-image.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/post-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\post-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/post-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\post-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/post-3.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\post-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/post-comment-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\post-comment-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/post-comment.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\post-comment.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/program-details.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\program-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/program-video-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\program-video-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/quote.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\quote.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s10.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s10.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s5.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s5.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s6.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s6.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s8.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s8.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/s9.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\s9.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/shape2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\shape2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/shape3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\shape3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/speaker-1.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\speaker-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/speaker-2.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\speaker-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/teacher.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\teacher.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-04.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-details.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-details.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/team-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\team-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/testi-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\testi-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/top-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\top-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/top-line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\top-line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/inner-page/vision.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\inner-page\vision.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/line-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\line-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/logo/black-logo.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\logo\black-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/logo/white-logo.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\logo\white-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/04.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\04.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/05.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\05.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/06.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\06.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/author-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\author-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/author.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\author.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/news/shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\news\shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/plane.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\plane.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/pricing/element-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\pricing\element-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/pricing/element.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\pricing\element.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/pricing/icon-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\pricing\icon-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/pricing/icon.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\pricing\icon.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/icon-bg.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\icon-bg.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/icon1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\icon1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/icon2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\icon2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/icon3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\icon3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/icon4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\icon4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/line-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\line-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/process/line.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\process\line.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/01.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\01.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/02.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\02.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/03.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\03.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/compass.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\compass.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/mask-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\mask-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/mask.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\mask.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/program/pencil.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\program\pencil.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/quote-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\quote-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/quote-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\quote-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/quote.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\quote.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/section-bottom-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\section-bottom-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/section-top-shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\section-top-shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/section-top-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\section-top-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/shape-3.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\shape-3.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/shape-4.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\shape-4.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/shape1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\shape1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/star.svg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\star.svg
+Content Type: image/svg+xml
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/09.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\09.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/10.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\10.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/11.jpg
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\11.jpg
+Content Type: image/jpeg
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/frame.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\frame.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/love.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\love.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/team/radius-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\team\radius-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/testi-bee-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\testi-bee-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/testi-r-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\testi-r-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/top-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\top-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/tree-shape.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\tree-shape.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/value/shape-1.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\value\shape-1.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/img/value/shape-2.png
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\img\value\shape-2.png
+Content Type: image/png
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/ajax-mail.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\ajax-mail.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/chroma.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\chroma.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\gsap.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery-3.7.1.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery.magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery.meanmenu.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery.meanmenu.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery.nice-select.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/jquery.waypoints.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\jquery.waypoints.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/main.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/parallaxie.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\parallaxie.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/ScrollSmoother.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\ScrollSmoother.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/ScrollToPlugin.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\ScrollToPlugin.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\ScrollTrigger.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/SplitText.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\SplitText.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/TextPlugin.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\TextPlugin.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/viewport.jquery.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\viewport.jquery.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\js\wow.min.js
+Content Type: text/javascript
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://ex-coders.com/html/kidzu/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://ex-coders.com/html/kidzu/contact.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\contact.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/event-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\event-details.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/event.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\event.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/index-2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index-2.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/index-3.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index-3.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/index-4.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index-4.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/index-5.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index-5.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/index.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\index.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/login.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\login.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/news-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\news-details.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/news-grid.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\news-grid.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/news.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\news.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/program-2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\program-2.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/program-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\program-details.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/program.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\program.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/team-2.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\team-2.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/team-details.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\team-details.html
+Content Type: text/html
+
+Uri: https://ex-coders.com/html/kidzu/team.html
+File Name: C:\Downloaded Web Sites\ex-coders.com\html\kidzu\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap
+File Name: C:\Downloaded Web Sites\ex-coders.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap
+File Name: C:\Downloaded Web Sites\ex-coders.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap
+File Name: C:\Downloaded Web Sites\ex-coders.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMuhW.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\kalam\v18\YA9dr0Wd4kDdMuhW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLL.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\kalam\v18\YA9Qr0Wd4kDdMtD6GgLL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLL.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\kalam\v18\YA9Qr0Wd4kDdMtDqHQLL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo18E.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v37/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o18E.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\quicksand\v37\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw461EN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw461EN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw47FEN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw47FEN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KwR7FEN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KwR7FEN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxf7FEN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kxm7FEN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Ky461EN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8KyK61EN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kzm61EN.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kzm61EN.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqBBJ9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqBBJ9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlJ9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlJ9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlO9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqDlO9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqF5J9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqF5J9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqGdJ9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqGdJ9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqItO9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqItO9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqLlO9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqLlO9C4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesans3/v19/nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqOdO9C4.ttf
+File Name: C:\Downloaded Web Sites\ex-coders.com\s\sourcesans3\v19\nwpDtKy2OAdR1K-IwhWudF-R3woAa8opPOrG97lwqOdO9C4.ttf
+Content Type: font/ttf
+

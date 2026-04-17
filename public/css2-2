@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLL.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kalam/v18/YA9dr0Wd4kDdMuhW.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Kalam';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLL.ttf) format('truetype');
+}

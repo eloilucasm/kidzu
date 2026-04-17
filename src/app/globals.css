@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Limpar estilos padrões que conflitam com o template Kidzu */
+body {
+  background: transparent !important;
+  color: inherit;
+}
+
+/* Forçar visualização inicial de seções importantes que usam animação legacy */
+.hero-section, .hero-content, .hero-image {
+  opacity: 1 !important;
+  visibility: visible !important;
+  transform: none !important;
+  position: relative;
+  z-index: 10 !important;
+}
+
+.page-wrapper {
+  position: relative;
+  z-index: 1 !important;
+}
+
+.swiper-slide {
+  opacity: 1 !important;
+  z-index: 5 !important;
+}
+
+.preloader {
+  display: none !important;
+  z-index: -9999 !important;
+}
+
+
